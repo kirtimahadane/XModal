@@ -7,11 +7,9 @@
 
 .modal-content {
   display: flex;
-
+background-color: #ccc;
   align-items: center;
   justify-content: center;
-}
-.app {
 }
 
 .submit-button {
